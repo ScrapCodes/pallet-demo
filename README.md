@@ -1,10 +1,6 @@
-
 # Purpose
 
 	Demonstrating various pallet features.
-# Reason 
-	
-	http://xkcd.com/386/
 
 ##Instructions.
 
